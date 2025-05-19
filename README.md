@@ -103,6 +103,6 @@ This project is currently unlicensed.
 
 ## 📧 Contact
 
-Ossama Hendi - [Ossamahendi21](mailto:.)
+Ossama Hendi - [Ossamahendi21](.)
 
 Project Repository: [https://github.com/Ossamahendi21/ClipNova-progect-](https://github.com/Ossamahendi21/ClipNova-progect-)
