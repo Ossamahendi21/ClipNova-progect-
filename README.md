@@ -50,7 +50,6 @@ The codebase in this repository is built upon the following technologies:
 *   React: For building the user interface.
 *   Tailwind CSS: For flexible and fast styling.
 *   React Router: For client-side navigation.
-*   Axios: For making API requests.
 *   Vite: Development build tool.
 
 **Backend (API):**
@@ -106,3 +105,4 @@ This project is currently unlicensed.
 Ossama Hendi - [Ossamahendi21](.)
 
 Project Repository: [https://github.com/Ossamahendi21/ClipNova-progect-](https://github.com/Ossamahendi21/ClipNova-progect-)
+
